@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://raw.githubusercontent.com/jnicogomez/jnicogomez/main/nicocuadrada.jpg" />
+   <img align="center" width="200" src="https://raw.githubusercontent.com/jnicogomez/jnicogomez/main/nicocuadrada.jpg" style="border-radius: 100%"/>
    <h3 align="center">¡Hi 👋! I'm Nico 👨🏻‍💻</h3>
 </p>
 <p align="center">I'm a <strong>Jr Full Stack</strong> developer<br />¡Check my content 👇!</p>
